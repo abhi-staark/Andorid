@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleOne</string>
+    <string name="button">Increase</string>
+</resources>
